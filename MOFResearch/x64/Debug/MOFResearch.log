@@ -1,0 +1,12 @@
+﻿  MOFResearch.cpp
+D:\GameProject\MOFResearch\MOFResearch\MOFResearch.cpp(9,10): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+D:\GameProject\MOFResearch\MOFResearch\defs.h(114,1): warning C4005: 'LOBYTE': 巨集重複定義
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(206,1): message : 請參閱 'LOBYTE' 之前的定義
+D:\GameProject\MOFResearch\MOFResearch\defs.h(115,1): warning C4005: 'LOWORD': 巨集重複定義
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(204,1): message : 請參閱 'LOWORD' 之前的定義
+D:\GameProject\MOFResearch\MOFResearch\defs.h(117,1): warning C4005: 'HIBYTE': 巨集重複定義
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(207,1): message : 請參閱 'HIBYTE' 之前的定義
+D:\GameProject\MOFResearch\MOFResearch\defs.h(118,1): warning C4005: 'HIWORD': 巨集重複定義
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(205,1): message : 請參閱 'HIWORD' 之前的定義
+D:\GameProject\MOFResearch\MOFResearch\MOFResearch.cpp(132,40): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  MOFResearch.vcxproj -> D:\GameProject\MOFResearch\x64\Debug\MOFResearch.exe
